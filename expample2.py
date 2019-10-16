@@ -28,13 +28,13 @@
 #     a -= 1
 # print(c)
 
-m = 10
-sum = 0
-i = 1
-while (m % i == 0):
-    sum = sum + i
-    i += 1
-print(sum)
+# m = 10
+# sum = 0
+# i = 1
+# while (m % i == 0):
+#     sum = sum + i
+#     i += 1
+# print(sum)
 
 
 m= 10
